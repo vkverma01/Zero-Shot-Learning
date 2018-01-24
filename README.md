@@ -36,7 +36,7 @@ awa.m
 * CUB: [Caltech-UCSD Birds-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)    
 * SUN: [SUN Attribute](https://cs.brown.edu/~gen/sunattributes.html)
 
-VGG-19 feature of Datasets and Attribute can be downloaded [here](https://drive.google.com/open?id=1o0uvjk0y3saLzaOT0dn4jMfV4EXthVcy). For more detail about train/test split please refer to our [paper](https://arxiv.org/pdf/1707.08040.pdf)
+VGG-19 features of above Datasets and Attribute can be downloaded [here](https://drive.google.com/open?id=1o0uvjk0y3saLzaOT0dn4jMfV4EXthVcy). For more detail about train/test split please refer to our [paper](https://arxiv.org/pdf/1707.08040.pdf)
 
 
 ## References
