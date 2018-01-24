@@ -1,7 +1,7 @@
 clc; 
 clear;
 % Load dataset
-load ('dataset/awa.mat');
+load ('zsl_dataset/awa.mat');
 %%
 train_class=size(trainClassLabels,1); % train class
 test_class=size(testClassLabels,1);   % test class
