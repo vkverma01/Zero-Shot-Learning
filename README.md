@@ -42,7 +42,7 @@ awa2.m
 Complete Datasets can be downloaded [here](https://drive.google.com/open?id=1M55QXL76rX3vA0E-foKuUa77O5Vn3DGY). For more detail about train/test split please refer to our [paper](https://arxiv.org/pdf/1707.08040.pdf)
 
 ## Result
-![res](https://github.com/vkverma01/Zero-Shot/blob/master/results.png)
+![res](https://github.com/vkverma01/Zero-Shot/blob/master/result.png)
 Here GFZSL-Trans represents the result in the transductive.
 
 ## References
