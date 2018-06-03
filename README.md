@@ -1,4 +1,4 @@
-## Note: This code is based on the new split proposed by [Y Xian et. al.](https://arxiv.org/pdf/1707.00600.pdf) 
+### Note: This code is based on the new split proposed by [Y Xian et. al.](https://arxiv.org/pdf/1707.00600.pdf) 
 
 # A Simple Exponential Family Framework for Zero-Shot Learning
 
@@ -41,6 +41,8 @@ awa2.m
 
 Complete Datasets can be downloaded [here](https://drive.google.com/open?id=1M55QXL76rX3vA0E-foKuUa77O5Vn3DGY). For more detail about train/test split please refer to our [paper](https://arxiv.org/pdf/1707.08040.pdf)
 
+## Result
+~[res](https://github.com/vkverma01/Zero-Shot/blob/master/result.png)
 
 ## References
 If you are using this work please refer the ECML-17 paper: 
