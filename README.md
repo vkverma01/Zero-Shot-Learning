@@ -1,4 +1,4 @@
-# Note: This code is based on the new split proposed by [Y Xian et. al.](https://arxiv.org/pdf/1707.00600.pdf) 
+## Note: This code is based on the new split proposed by [Y Xian et. al.](https://arxiv.org/pdf/1707.00600.pdf) 
 
 # A Simple Exponential Family Framework for Zero-Shot Learning
 
@@ -39,7 +39,7 @@ awa2.m
 * CUB: [Caltech-UCSD Birds-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)    
 * SUN: [SUN Attribute](https://cs.brown.edu/~gen/sunattributes.html)
 
-VGG-19 features of above Datasets and Attribute can be downloaded [here](https://drive.google.com/open?id=1o0uvjk0y3saLzaOT0dn4jMfV4EXthVcy). For more detail about train/test split please refer to our [paper](https://arxiv.org/pdf/1707.08040.pdf)
+Complete Datasets can be downloaded [here](https://drive.google.com/open?id=1M55QXL76rX3vA0E-foKuUa77O5Vn3DGY). For more detail about train/test split please refer to our [paper](https://arxiv.org/pdf/1707.08040.pdf)
 
 
 ## References
