@@ -43,6 +43,7 @@ Complete Datasets can be downloaded [here](https://drive.google.com/open?id=1M55
 
 ## Result
 ![res](https://github.com/vkverma01/Zero-Shot/blob/master/result.png)
+Here GFZSL-Trans represents the result in the transductive.
 
 ## References
 If you are using this work please refer the ECML-17 paper: 
