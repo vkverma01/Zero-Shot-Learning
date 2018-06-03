@@ -37,7 +37,7 @@ mu_unk=zeros(d,test_class);
 sigma_unk=zeros(d,test_class);
 
 % Hyperparameter lamda1 & lamda2
-lamda1=0.1;lamda2=100000000; reg=0.05;
+lamda1=0.01;lamda2=100000000; reg=0.05;
 alpha_mu = (K_trtr+lamda1*eye(train_class))\mu_cap(:,:)';
 mu_unk(:,:)=alpha_mu'*K_trte;
 
