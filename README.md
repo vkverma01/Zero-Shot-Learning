@@ -1,3 +1,5 @@
+# Note: This code is based on the new split proposed by [Y Xian et. al.](https://arxiv.org/pdf/1707.00600.pdf) 
+
 # A Simple Exponential Family Framework for Zero-Shot Learning
 
 ## Abstract:
@@ -28,7 +30,8 @@ vlfeat toolbox
 ```
 cub.m
 sun.m
-awa.m
+awa1.m
+awa2.m
 ```
 
 ## Dataset
